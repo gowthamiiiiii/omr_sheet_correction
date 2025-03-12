@@ -1,0 +1,24 @@
+Welcome to our OMR Sheet Evaluation Toolbox
+
+Here are some instructions for using this Toolbox
+1. Open the finalproject.m in matlab and Run it.
+2. A GUI window will be opened. Click the 'Load Image' button;
+	a file open dialog box will open . Go to 'OMR Image' folder 
+	in which the scanned image of OMR sheets are stored. Select 
+	an image and click open.
+3. In the input box give the number of question you want to evaluate(maximum 60)
+4. Click the 'Load Image' button;
+	a file open dialog box will open . Go to 'OMR Solution' folder 
+	in which the solution excel file of OMR sheets are stored. Select 
+	a file and click open.
+
+	IF YOU CAN NOT SEE ANY FILE,THEN CHANGE THE FILE TYPE TO '*all files' AND 
+	SELECT YOUR SOLUTION FILE. NOTE THAT THIS FILES ARE EXCEL FILES.
+
+5. click 'Evaluate OMR' button and wait to see roll,test id,marks,remarks in the specified field.
+6. If you need any kind of help, click the 'Help' Button.
+7. If you have any query,click the About button.
+8. Click restart if any problem arises or you want to evaluate freshly.
+
+Note: After first omr sheet evaluation, you can change the omr or the solution according to 
+	your wish until you press restart button.
